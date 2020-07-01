@@ -23,6 +23,7 @@
     "postcss-cli": "^7.1.0"
   },
   "dependencies": {
-    "live-server": "^1.2.1"
+    "live-server": "^1.2.1",
+    "websocket-extensions": "^0.1.4"
   }
 }
